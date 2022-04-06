@@ -1,3 +1,11 @@
+"""
+This Project Under Team-Silent💞 < @SILENT_DEVS >
+Orgination Github Of this TeamSilent < https://github.com/TeamSilentt > Check out
+Creator Or Dev @HYPER_AD13 | @SHINING_OFF <Found On telegram>
+Found on github < https://github.com/HYPER-AD17 >
+©Team Silent™
+"""
+
 # Debian Based Docker
 FROM debian:latest
 
