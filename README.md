@@ -38,6 +38,21 @@
 <a href="https://t.me/SILENT_DEVS"><img src="http://ForTheBadge.com/images/badges/built-with-science.svg"></a>
 <a href="https://github.com/HYPER-AD17"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></a>
 
+
+<pre>
+<h3><b><u>
+Brief Commands for 
+Silent Radio Streamer 🚶
+</u></b></h3>
+<details>
+<summary>
+<h3><i>COMMANDS 🥀</i></h3>
+</summary>
+<a href="https://github.com/TeamSilentt/SilentRadioPlayer/blob/main/plugins/bot/private.py"><img src="https://telegra.ph/file/1a5fe4fd2c8bc099174ae.jpg" alternate="Check Your InterNet Connection Sed 😑😑"></a>
+</details>
+
+</pre>
+
 <h4><b><i>You Can Ask any Query Related about This Project just click on button below</i></b></h4>
 <p align="center">
 <a href="https://t.me/SILENT_SUPPORT1"><img src="https://img.shields.io/badge/Ask%20-anything-1abc9c.svg"></a>
