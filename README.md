@@ -31,7 +31,7 @@
 
 <h3><b><i>Language Used For Making Silent Radio Streamer</i></b></h3>
 <p align="center">
-<a href="https;//python.org"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"></a><br>
+<a href="https://python.org"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"></a><br>
 <a href="https://g.co/kgs/Yv6kWo"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"></a>
 <a href="https://heroku.com"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=black"></a><br>
 <a href="https://github.com/TeamSilentt"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg"></a>
