@@ -1,5 +1,5 @@
 <p align="center"><h2> <code>SilentRadioPlayer</code> </h2>
-<b><i><u>Telegram Lag Free radio player which can play live radio stream or yt stream in voice chat with minimum lag ❤️🚶.</u></i></b>
+<b><i><u>Telegram Lag Free radio player which can play live radio stream or yt stream in voice chat with minimum lag As depend upon their server nd quality of internet❤️🚶.</u></i></b>
 
 
 <pre>
@@ -34,9 +34,9 @@
 <a href="https;//python.org"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"></a><br>
 <a href="https://g.co/kgs/Yv6kWo"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"></a>
 <a href="https://heroku.com"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=black"></a><br>
-<a href="https;//github.com/TeamSilentt"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg"></a>
-<a href="https;//t.me/SILENT_DEVS"><img src="http://ForTheBadge.com/images/badges/built-with-science.svg"></a>
-<a href="https;//github.com/HYPER-AD17"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></a>
+<a href="https://github.com/TeamSilentt"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg"></a>
+<a href="https://t.me/SILENT_DEVS"><img src="http://ForTheBadge.com/images/badges/built-with-science.svg"></a>
+<a href="https://github.com/HYPER-AD17"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></a>
 
 <h4><b><i>You Can Ask any Query Related about This Project just click on button below</i></b></h4>
 <p align="center">
