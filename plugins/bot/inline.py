@@ -40,7 +40,7 @@ async def search(client, query):
                 title="ᴀʙᴏᴜᴛ ᴅᴇᴠᴜ ʀᴀᴅɪᴏ ᴘʟᴀʏᴇʀ",
                 thumb_url="https://telegra.ph/file/00a7f41225be419fade0b.jpg",
                 photo_url="https://telegra.ph/file/00a7f41225be419fade0b.jpg",
-                caption=f"ʀᴀᴅɪᴏ ᴘʟᴀʏᴇʀ 🤔\n\n<b>ᴇxᴄᴜᴛᴇᴅ ʙʏ : \nᴛᴇᴀᴍ-sɪʟᴇɴᴛ</b>",
+                caption=f"sɪʟᴇɴᴛ ʀᴀᴅɪᴏ ᴘʟᴀʏᴇʀ ʙʏ ᴛᴇᴀᴍ sɪʟᴇɴᴛ🤔\n\n<b>ᴇxᴄᴜᴛᴇᴅ ʙʏ : <a href="https://github.com/TeamSilentt">ᴛᴇᴀᴍ-sɪʟᴇɴᴛ👩‍💻</a> | <a href="https://github.com/HYPER-AD17">ɴᴜʙ-ʜʏᴘᴇʀ🧚‍♀️</a> \nᴛᴇᴀᴍ-sɪʟᴇɴᴛ</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
             )
