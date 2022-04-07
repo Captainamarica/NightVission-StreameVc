@@ -9,3 +9,5 @@ python-dotenv
 youtube_search
 youtube_search_python
 pytgcalls==3.0.0.dev21
+git+https://github.com/asmsafone/downloader
+git+https://github.com/asmsafone/pyrogram@master
