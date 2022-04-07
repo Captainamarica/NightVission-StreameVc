@@ -108,7 +108,7 @@ async def ping_pong(_, m: Message):
     m_reply = await m.reply_text("⚡")
     delta_ping = time() - start
     await m_reply.edit_text(
-        f"{emoji.ROBOT} **ᴘᴏɴɢ** : `{delta_ping * 1000:.3f} ms`"
+        f"🥀 **ᴘᴏɴɢ** : `{delta_ping * 1000:.3f} ms`"
     )
 
 
@@ -125,7 +125,7 @@ async def get_uptime(_, m: Message):
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))
     await m.reply_text(
-        f"{emoji.ROBOT} **ᴅᴇᴠᴜ ʀᴀᴅɪᴏ ᴘʟᴀʏᴇʀ🧚‍♀️**\n"
+        f"💫 **ᴅᴇᴠᴜ ʀᴀᴅɪᴏ ᴘʟᴀʏᴇʀ🧚‍♀️**\n"
         f"- **ᴜᴘᴛɪᴍᴇ:** `{uptime}`\n"
         f"- **ʀᴇsᴛᴀʀᴛᴇᴅ ᴛɪᴍᴇ:** `{START_TIME_ISO}`"
     )
