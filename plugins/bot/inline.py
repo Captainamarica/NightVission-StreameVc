@@ -21,8 +21,12 @@ buttons = [
                 InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs💬", url="https://t.me/SILENT_BOTS"),
             ],
             [
-                InlineKeyboardButton("ɴᴜʙ🙋‍♀️", url="tg://user?id=5072650671"),
+                InlineKeyboardButton("ɴᴜʙ🙋‍♀️", url="https://t.me/HYPER_AD13"),
+                InlineKeyboardButton("sᴏᴜʀᴄᴇ💫", url="https://github.com/TeamSilentt/SilentRadioPlayer"),
+            ],
+            [
                 InlineKeyboardButton("ʜᴇʟᴘ👩‍💻", callback_data="help"),
+                InlineKeyboardButton("ᴄʟᴏsᴇ🗑️", callback_data="close"),
             ]
          ]
 
