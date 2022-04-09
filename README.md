@@ -71,7 +71,7 @@ Silent Radio Streamer 🚶
 
 <h5><code>You can found me on telegram</code></h5>
 
-<p><a href="https://t.me/DevuMusicBOT"><img src="https://img.shields.io/badge/Silent-Radio%20%20Streamer-blueviolet?style=for-the-badge&logo=telegram" width="200""/></a>
+<p><a href="https://t.me/DevuRadioBot"><img src="https://img.shields.io/badge/Silent-Radio%20%20Streamer-blueviolet?style=for-the-badge&logo=telegram" width="200""/></a>
 
 <h6><b><i><u>Here Is my sister Robot Which can handle Your group safely Nd play lag free Music too Check Out this too</u></i></b></h6>
 
