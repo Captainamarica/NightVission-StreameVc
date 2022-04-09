@@ -54,7 +54,14 @@ def stop_and_restart():
 
 bot.run(main())
 bot.start()
-print("\n\nRadio Player Bot Started!")
+print("""╭┈┈┈┈┈┈┈┈┈┈┈┈𑁍ࠬ┈┈┈╮
+
+❝sɪʟᴇɴᴛ ʀᴀᴅɪᴏ ᴘʟᴀʏᴇʀ⚡❞
+❝sᴛᴀᴛᴜs » sᴛᴀʀᴛᴇᴅ 🥀❞
+❝ᴅᴇᴠ » ɪᴛ's ʜʏᴘᴇʀ🇮🇳❞
+❝ᴊᴏɪɴ @SILENT_DEVS❞
+
+╰┈┈┈𑁍ࠬ┈┈┈┈┈┈┈┈┈┈┈┈╯""")
 bot.send(
     SetBotCommands(
         scope=BotCommandScopeDefault(),
