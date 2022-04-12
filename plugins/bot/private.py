@@ -54,7 +54,7 @@ HELP_TEXT = """
  @SILENT_DEVS ✨,
 """
 
-# \u066D /setvar - `ᴄʜᴀɴɢᴇ ʜᴇʀᴏᴋᴜ ᴄᴏɴғɪɢ/ᴠᴀʀs`
+# /setvar - `ᴄʜᴀɴɢᴇ ʜᴇʀᴏᴋᴜ ᴄᴏɴғɪɢ/ᴠᴀʀs`
 
 @Client.on_callback_query()
 async def cb_handler(client: Client, query: CallbackQuery):
@@ -86,9 +86,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🔄", callback_data="rplay"),
-                                InlineKeyboardButton("⏸", callback_data="pause"),
-                                InlineKeyboardButton("⏩", callback_data="next")
+                                InlineKeyboardButton("🌀", callback_data="rplay"),
+                                InlineKeyboardButton("II", callback_data="pause"),
+                                InlineKeyboardButton("‣‣", callback_data="next")
+                            ],
+                            [
+                                InlineKeyboardButton("ᴍᴏʀᴇ", url="tg://need_update_for_some_feature/"),
+                                InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="close"),
                             ],
                         ]
                     )
@@ -114,9 +118,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🔄", callback_data="rplay"),
-                                InlineKeyboardButton("▶️", callback_data="resume"),
-                                InlineKeyboardButton("⏩", callback_data="next")
+                                InlineKeyboardButton("🌀", callback_data="rplay"),
+                                InlineKeyboardButton("II", callback_data="resume"),
+                                InlineKeyboardButton("‣‣", callback_data="next")
+                            ],
+                            [
+                                InlineKeyboardButton("ᴍᴏʀᴇ", url="tg://need_update_for_some_feature/"),
+                                InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="close"),
                             ],
                         ]
                     )
@@ -142,9 +150,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🔄", callback_data="rplay"),
-                                InlineKeyboardButton("⏸", callback_data="pause"),
-                                InlineKeyboardButton("⏩", callback_data="next")
+                                InlineKeyboardButton("🌀", callback_data="rplay"),
+                                InlineKeyboardButton("II", callback_data="pause"),
+                                InlineKeyboardButton("‣‣", callback_data="next")
+                            ],
+                            [
+                                InlineKeyboardButton("ᴍᴏʀᴇ", url="tg://need_update_for_some_feature/"),
+                                InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="close"),
                             ],
                         ]
                     )
@@ -170,9 +182,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🔄", callback_data="rplay"),
-                                InlineKeyboardButton("⏸", callback_data="pause"),
-                                InlineKeyboardButton("⏩", callback_data="next")
+                                InlineKeyboardButton("🌀", callback_data="rplay"),
+                                InlineKeyboardButton("II", callback_data="pause"),
+                                InlineKeyboardButton("‣‣", callback_data="next")
+                            ],
+                            [
+                                InlineKeyboardButton("ᴍᴏʀᴇ", url="tg://need_update_for_some_feature/"),
+                                InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="close"),
                             ],
                         ]
                     )
@@ -290,22 +306,22 @@ async def set_heroku_var(client, message):
             await asyncio.sleep(2)
             if var in config:
                 del config[var]
-                await m.edit(f"🗑 **Sucessfully Deleted `{var}` !**")
+                await m.edit(f"ᴅᴇʟᴇᴛᴇᴅ sᴜᴄᴄᴇsғᴜʟʟʏ `{var}` !")
                 config[var] = None
             else:
-                await m.edit(f"🤷‍♂️ **Variable Named `{var}` Not Found, Nothing Was Changed !**")
+                await m.edit(f"😕 ᴠᴀʀ ɴᴀᴍᴇ `{var}` ᴜɴᴀʙʟᴇ ᴛᴏ ғɪɴᴅ, sʜʜ !")
             return
         if var in config:
-            m=await message.reply_text(f"⚠️ **Variable Already Found, So Edited Value To `{value}` !**")
+            m=await message.reply_text(f"🔥 ʏᴏ ᴠᴀʀɪᴀʙʟᴇ ᴄʜᴀɴɢᴇᴅ ᴛᴏ `{value}` !**")
         else:
-            m=await message.reply_text(f"⚠️ **Variable Not Found, So Setting As New Var !**")
+            m=await message.reply_text(f"ᴏᴋ ᴍᴀᴋɪɴɢ ᴠᴀʀɪᴀʙʟᴇ🙋‍♀️.")
         await asyncio.sleep(2)
-        await m.edit(f"✅ **Succesfully Set Variable `{var}` With Value `{value}`, Now Restarting To Apply Changes !**")
+        await m.edit(f"✅ sᴜᴄᴄᴇssғᴜʟʟʏ ᴄʀᴇᴀᴛᴇᴅ `{var}` ᴡɪᴛʜ `{value}`, ʜᴜʜ ᴡᴀɪᴛ ᴛᴏ ʀᴇsᴛᴀʀᴛ !")
         config[var] = str(value)
         await mp.delete(m)
         await mp.delete(message)
         return
     else:
-        k=await message.reply_text("❗ **You Haven't Provided Any Variable, You Should Follow The Correct Format !** \n\nFor Example: \n• `/setvar CHAT_ID=-1001313215676` to change or set CHAT var. \n• `/setvar REPLY_MESSAGE=` to delete REPLY_MESSAGE var.")
+        k=await message.reply_text("🤔 ᴡʜᴀᴛ sʜᴏᴜʟᴅ ɪ ᴍᴀᴋᴇ ᴀ ᴠᴀʀ ғᴏʀ ɢɪᴠ ᴍᴇ ᴀ ᴠᴀʟᴜᴇ ᴏғ ɪᴛ.  \n\nᴇxᴀᴍᴘʟᴇ: \n• `/setvar CHAT_ID=-1001313215676` ᴛᴏ ᴄʜᴀɴɢᴇ ᴏʀ sᴇᴛ `CHAT` ᴠᴀʀ. \n• `/setvar REPLY_MESSAGE=` ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴏʟᴅ ᴠᴀʀ ᴏғ `REPLY_MESSAGE ᴏʀ ɢɪᴠᴇɴ ᴠᴀʀɪᴀʙʟᴇ`.")
         await mp.delete(k)
         await mp.delete(message)
