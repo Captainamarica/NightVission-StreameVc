@@ -3,6 +3,7 @@ wheel
 psutil
 heroku3
 requests
+pyrogram==1.4.16
 tgcrypto
 ffmpeg-python
 python-dotenv
