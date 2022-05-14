@@ -1,7 +1,8 @@
 <p align="center"><h2> <code>SilentRadioPlayer</code> </h2>
-<b><i><u>Telegram Lag Free radio player which can play live radio stream or yt stream in voice chat with minimum lag As depend upon their server nd quality of internet❤️🚶.</u></i></b>
+<b><i><u>Telegram Lag Free radio player which can play live radio stream or yt stream in voice chat with minimum lag As depend upon their server nd quality of internet❤️🚶.</u></i></b><br>
 
 
+<p align="center"><img src="https://img.shields.io/badge/Visitors-black"><br><img src="https://profile-counter.glitch.me/S-UNSTOPPABLE/count.svg">
 <pre>
 
 
