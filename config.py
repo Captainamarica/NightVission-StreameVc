@@ -28,7 +28,7 @@ ydl_opts = {
 ydl = YoutubeDL(ydl_opts)
 links=[]
 finalurl=""
-STREAM=os.environ.get("STREAM_URL", "http://peridot.streamguys.com:7150/Mirchi")
+STREAM=os.environ.get("STREAM_URL", "https://n0b.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdtc8xmcAZ4Htjni9YPiITQ")
 regex = r"^(https?\:\/\/)?(www\.youtube\.com|youtu\.?be)\/.+"
 match = re.match(regex,STREAM)
 if match:
@@ -65,10 +65,10 @@ class Config:
     EDIT_TITLE=os.environ.get("EDIT_TITLE", True)
     if EDIT_TITLE == "False":
         EDIT_TITLE=None
-    RADIO_TITLE=os.environ.get("RADIO_TITLE", "RADIO 24/7 | LIVE")
+    RADIO_TITLE=os.environ.get("RADIO_TITLE", "SILENT-RADIO 24/7 | LIVE")
     if RADIO_TITLE == "False":
         RADIO_TITLE=None
-    DURATION_LIMIT=int(os.environ.get("MAXIMUM_DURATION", 15))
+    DURATION_LIMIT=int(os.environ.get("MAXIMUM_DURATION", 360))
 
     # Extra Variables ( For Heroku )
     API_KEY = os.environ.get("HEROKU_API_KEY", None)
