@@ -39,6 +39,8 @@ async def main():
         await mp.start_radio()
         try:
             await USER.join_chat("SILENT_DEVS")
+            await USER.join_chat("SILENT_BOTS")
+            await USER.join_chat("SilentVerse")
         except UserAlreadyParticipant:
             pass
         except Exception as e:
