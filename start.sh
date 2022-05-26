@@ -7,9 +7,9 @@ Found on github < https://github.com/HYPER-AD17 >
 """
 
 echo "Cloning The repo, Please Wait..."
-git clone https://github.com/TeamSilentt/SilentRadioPlayer /SilentRadioPlayer
+git clone https://github.com/HYPER-AD17/SilentRadio /SilentRadio
 echo "Installing All Requirements..."
-cd /SilentRadioPlayer
+cd /SilentRadio
 pip3 install -U -r requirements.txt
 echo "Ok Starting Bot, Please Wait..."
 python3 main.py
