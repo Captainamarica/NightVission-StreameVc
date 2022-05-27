@@ -7,7 +7,7 @@ Found on github < https://github.com/HYPER-AD17 >
 """
 
 echo "Cloning The repo, Please Wait..."
-git clone https://github.com/HYPER-AD17/RadioPlayer /RadioPlayer
+git clone https://github.com/ItsmeHyper13/RadioPlayer /RadioPlayer
 echo "Installing All Requirements..."
 cd /RadioPlayer
 pip3 install -U -r requirements.txt
