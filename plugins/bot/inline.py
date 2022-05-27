@@ -22,7 +22,7 @@ buttons = [
             ],
             [
                 InlineKeyboardButton("ɴᴜʙ🙋‍♀️", url="https://t.me/HYPER_AD13"),
-                InlineKeyboardButton("sᴏᴜʀᴄᴇ💫", url="https://github.com/HYPER-AD17/SilentRadio"),
+                InlineKeyboardButton("sᴏᴜʀᴄᴇ💫", url="https://github.com/ItsmeHyper13/RadioPlayer"),
             ],
             [
                 InlineKeyboardButton("ʜᴇʟᴘ👩‍💻", callback_data="help"),
