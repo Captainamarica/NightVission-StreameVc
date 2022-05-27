@@ -15,7 +15,7 @@
 
 <b>Deploy Silent Radio to Heroku</b>
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/HYPER-AD17/RadioPlayer"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/ItsmeHyper13/RadioPlayer"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 </details>
 
