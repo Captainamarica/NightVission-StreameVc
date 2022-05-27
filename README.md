@@ -59,15 +59,15 @@ Silent Radio Streamer 🚶
 <a href="https://t.me/SILENT_SUPPORT1"><img src="https://img.shields.io/badge/Ask%20-anything-1abc9c.svg"></a>
 
 <h2><b><i>Silent Github's Stats</i></b></h2>
-<img src="https://img.shields.io/github/license/TeamSilentt/SilentRadioPlayer.svg">
-<img src="https://img.shields.io/github/forks/TeamSilentt/SilentRadioPlayer.svg">
-<img src="https://img.shields.io/github/stars/TeamSilentt/SilentRadioPlayer.svg">
-<img src="https://img.shields.io/github/followers/TeamSilentt.svg?style=social&label=Follow&maxAge=2592000">
+<img src="https://img.shields.io/github/license/ItsmeHyper13/RadioPlayer.svg">
+<img src="https://img.shields.io/github/forks/ItsmeHyper13/RadioPlayer.svg">
+<img src="https://img.shields.io/github/stars/ItsmeHyper13/RadioPlayer.svg">
+<img src="https://img.shields.io/github/followers/ItsmeHyper13.svg?style=social&label=Follow&maxAge=2592000">
 
 <details>
 <summary><h3><b><i>My GitHub Stats 🧚‍♀️🚶</i></b></h3></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=HYPER-AD17&theme=blue-green">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYPER-AD17&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api?username=ItsmeHyper13&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeHyper13&theme=blue-green">
 </details>
 
 <h5><code>You can found me on telegram</code></h5>
